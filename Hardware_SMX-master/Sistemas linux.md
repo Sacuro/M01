@@ -5,7 +5,8 @@ Un sistema operativo linux se divide en varias "capas" de personalización, pero
 El núcleo o kernel es la pieza más importante dentro del sistema operativo, porque contiene los archivos vitales y necesarios para poder hacer funcionar el sistema. El kernel es el responsable de comunicarse con el hardware y hacer funcionar las demás aplicaciones para su correcto funcionamiento.
 
 ![alt text](https://mantener2014.files.wordpress.com/2014/11/kernel.png)
-
+## Servidores gráficos
+Los servidores gráficos (x11 o wayland son ejemplos) son los encargados de trazar las líneas que vemos en pantalla.
 ## CLI-GUI
 
 ### CLI
