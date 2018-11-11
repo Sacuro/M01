@@ -5,4 +5,4 @@ Se instala usando en el terminal el comando **dnf install openbox**
 
 ### Captura 
 
-[![Image from Gyazo](https://i.gyazo.com/7d804f666f63672acb089bb9e5cb2e19.png)](https://gyazo.com/7d804f666f63672acb089bb9e5cb2e19)
+[![Image from Gyazo](https://i.gyazo.com/c15121543333437f7c93713e385e5fb1.png)](https://gyazo.com/c15121543333437f7c93713e385e5fb1)
