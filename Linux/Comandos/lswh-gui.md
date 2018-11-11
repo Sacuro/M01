@@ -1,5 +1,6 @@
 ## Como se instala y usa? 
 Para instalarlo debemos escribir en el terminal "dnf install lshw-gui" 
+
 Para usarlo escribimos "lshw-gui"
 
  ***Captura de pantalla*** 
