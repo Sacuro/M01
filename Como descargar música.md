@@ -24,3 +24,6 @@ Esta opción solo es válida para dispositivos Android, ya que para IOS aún no 
 4.- Ahora toca elegir como queremos descargarlo, en el cual podemos ver que se puede descargar video y audio a diferentes calidades. Nosotros vamos a elegir mp3 160K. 
 
 5.- Una vez se descargue, aparecerá en nuestra aplicación de música en una carpeta llamada "Snaptube Audio" y estará lista para que podamos oirla. 
+
+
+:3333333333333333333
